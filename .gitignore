@@ -1,0 +1,11 @@
+VirtualDB_Data
+.svn
+.classpath
+.project
+_srcDynamic
+_bin
+*.xml.tmp
+out
+.idea
+Implementation/SharedObjects/Java/*.iml
+Implementation/LogicalUnits/*/Java/*.iml
