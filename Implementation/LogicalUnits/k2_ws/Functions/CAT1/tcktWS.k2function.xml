@@ -13,7 +13,7 @@
   <RequiresLuReference>false</RequiresLuReference>
   <Desc />
   <Language>Java</Language>
-  <FunctionBody>return "Peter";</FunctionBody>
+  <FunctionBody>return "Hellow";</FunctionBody>
   <IsSyntaxValid>true</IsSyntaxValid>
   <IsRootFunction>false</IsRootFunction>
   <InputParams />
